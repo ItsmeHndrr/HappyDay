@@ -1,0 +1,14 @@
+{
+  "name": "happyday-birthday-maker",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.57.4"
+  },
+  "devDependencies": {
+    "vercel": "^39.2.0"
+  }
+}
